@@ -27,3 +27,15 @@ https://imuxlucas.github.io/spiral-flight/
 - 云彩实现参考 [jeantimex/geospatial](https://github.com/jeantimex/geospatial)。资源许可见 `flight-assets/GEOSPATIAL-LICENSE.txt`。
 
 第三方库的许可文本保存在 `licenses/`，并保留在打包代码的许可注释中。
+
+## 云端生日飞行 · V2
+
+[打开飞行主题蛋糕游戏](https://imuxlucas.github.io/spiral-flight/aviation-party.html)
+
+- 八层飞行主题蛋糕，收集装饰、逐层解锁。
+- 三位本地模拟玩家使用不同配色的同款企鹅飞机，跨楼层飞行和抢分。
+- 飞机碰撞结束本局，可从零重新开始。
+- 支持触屏、鼠标与键盘，9:16 竖屏。
+
+`aviation-party.html` 是独立静态页面，内含所有运行代码和程序化模型，不依赖构建服务。原有 `index.html` 螺旋飞行游戏保留。
+企鹅表情动画使用 [bloub](https://github.com/jeremy-prt/bloub) 的动画函数；许可见 `licenses/bloub.txt`。
