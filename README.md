@@ -28,10 +28,11 @@ https://imuxlucas.github.io/spiral-flight/
 
 第三方库的许可文本保存在 `licenses/`，并保留在打包代码的许可注释中。
 
-## 云端生日飞行 · V2
+## 云端生日飞行 · V3
 
 [打开飞行主题蛋糕游戏](https://imuxlucas.github.io/spiral-flight/aviation-party.html)
 
+- 页面先显示加载状态，准备完成后展示完整蛋糕；点击「开始装点蛋糕」后才开始计时和飞行。
 - 八层飞行主题蛋糕，收集装饰、逐层解锁。
 - 三位本地模拟玩家使用不同配色的同款企鹅飞机，跨楼层飞行和抢分。
 - 飞机碰撞结束本局，可从零重新开始。
